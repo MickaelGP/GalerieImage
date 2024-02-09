@@ -1,3 +1,3 @@
-Galerie d'image avec laravel 10
-Utilisation de intervention Image
+Galerie d'images avec laravel 10</br>
+Utilisation de intervention Image</br>
 Fichier .env modififié 
